@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "1045798429945",
+    "project_id": "dbproyectos-8b2b9",
+    "storage_bucket": "dbproyectos-8b2b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:a0358ce9d6243203ba2e28",
+        "android_client_info": {
+          "package_name": "com.example.cineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:165fc0c7120a9f46ba2e28",
+        "android_client_info": {
+          "package_name": "com.example.prueba001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:d3683646bb0fd877ba2e28",
+        "android_client_info": {
+          "package_name": "com.example.prueba002"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:046333ab917e6cbeba2e28",
+        "android_client_info": {
+          "package_name": "com.example.pruebaexam02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:f1b4a14e813c090aba2e28",
+        "android_client_info": {
+          "package_name": "com.example.pruebaexamen01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:0d897409182ff5a2ba2e28",
+        "android_client_info": {
+          "package_name": "com.example.pruebaexfirebase01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:26eaecb740231b3dba2e28",
+        "android_client_info": {
+          "package_name": "com.example.pruebaexfirebase02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045798429945:android:030ddb3a7dd5c16cba2e28",
+        "android_client_info": {
+          "package_name": "com.example.strivefitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ahVT1A6j-l2nu0hli3TLt0MOV_dyaY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
